@@ -1,0 +1,29 @@
+﻿  main.cpp
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(71): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(73): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(74): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(162): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(163): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(170): warning C4838: 从“int”转换到“float”需要收缩转换
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(170): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(221): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(236): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(253): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(258): warning C4244: “初始化”: 从“unsigned __int64”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(307): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(368): warning C4838: 从“int”转换到“float”需要收缩转换
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(368): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(377): warning C4838: 从“int”转换到“float”需要收缩转换
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(377): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(388): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(399): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(406): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(501): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(502): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(503): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(513): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(514): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(515): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  polygon-based-contour-shape.vcxproj -> D:\KinctProject\polygon-based-contour-shape\x64\Debug\polygon-based-contour-shape.exe
+  polygon-based-contour-shape.vcxproj -> D:\KinctProject\polygon-based-contour-shape\x64\Debug\polygon-based-contour-shape.pdb (Full PDB)

@@ -1,0 +1,26 @@
+﻿  main.cpp
+d:\program files\opencv3.2\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv3.2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv3.2\opencv\build\include\opencv2\flann\logger.h(66): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\program files\opencv3.2\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(603): warning C4101: “cos”: 未引用的局部变量
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(620): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(621): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(627): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(644): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(645): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(656): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(657): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(952): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(987): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(996): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1001): warning C4018: “>=”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1028): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1041): warning C4018: “>=”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1054): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1083): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1107): warning C4018: “<”: 有符号/无符号不匹配
+d:\kinctproject\polygon-based-contour-shape\polygon-based-contour-shape\main.cpp(1181): warning C4018: “<”: 有符号/无符号不匹配
